@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mary-cb/Mary-cb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mary-cb/Mary-cb/snake.svg" alt="Snake animation" />
 
 ###
