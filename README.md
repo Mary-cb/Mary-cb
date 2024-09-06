@@ -1,4 +1,4 @@
-<main style="background-color: #800080; padding: 20px;">
+
   <h2 align="left" style="color: #FFFFFF;">Olá! 👋 Sou uma desenvolvedora Back-end, com uma grande afinidade com Java. Adoro resolver problemas complexos, construir aplicações robustas e escaláveis, e mergulhar fundo nas tecnologias de back-end. Estou sempre em busca de aprender coisas novas e melhorar continuamente minhas habilidades. Seja projetando APIs, otimizando interações com bancos de dados, ou ajustando a lógica do lado do servidor, é no desenvolvimento backend que eu me realizo. Vamos construir algo incrível juntos!</h2>
 
   ###
@@ -44,4 +44,4 @@
   <br clear="both">
 
   <img src="https://raw.githubusercontent.com/Mary-cb/Mary-cb/output/snake.svg" alt="Snake animation" />
-</main>
+
