@@ -43,6 +43,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mary-cb/Mary-cb/snake.svg" alt="Snake animation" />
 
-###
